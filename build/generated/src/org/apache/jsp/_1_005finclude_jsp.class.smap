@@ -1,0 +1,21 @@
+SMAP
+_1_005finclude_jsp.java
+JSP
+*S JSP
+*F
++ 0 1_include.jsp
+1_include.jsp
++ 1 index.html
+index.html
+*L
+5,39:49
+43:88
+1#1,17:89
+43#0:105
+45,5:108
+49:113
+1#1,17:114
+49#0:130
+50,8:132
+57,12:140
+*E

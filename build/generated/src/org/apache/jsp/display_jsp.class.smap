@@ -1,0 +1,16 @@
+SMAP
+display_jsp.java
+JSP
+*S JSP
+*F
++ 0 display.jsp
+display.jsp
++ 1 menu.html
+menu.html
+*L
+5,14:53
+1#1,78:67
+18#0,2:144
+20,44:147
+63,4:191
+*E
